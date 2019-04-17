@@ -1,0 +1,70 @@
+# bin	superkingdom	phylum	class	order	family	genus	species
+MAG01	Bacteria	Firmicutes					
+MAG02	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG03	Bacteria	Firmicutes					
+MAG04	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+MAG05	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NoStdName	Lachnospiraceae bacterium A4
+MAG06	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	
+MAG07	Bacteria	Firmicutes	Clostridia				
+MAG08	Bacteria	Firmicutes	NoStdName	NoStdName	NoStdName	NoStdName	Firmicutes bacterium
+MAG09	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+MAG10	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG11	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+MAG12	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter	
+MAG13	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG14	Bacteria						
+MAG15	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales			
+MAG16	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	Mucispirillum schaedleri*
+MAG17	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+MAG18	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	
+MAG19	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales			
+MAG20	Bacteria	NoStdName	NoStdName	NoStdName	NoStdName	NoStdName	bacterium 1xD42-87
+MAG21	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	
+MAG22	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+MAG23	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	
+MAG24	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+MAG25	Bacteria	NoStdName	NoStdName	NoStdName	NoStdName	NoStdName	bacterium 1xD42-87
+MAG26	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NoStdName	Muribaculaceae bacterium Isolate-013 (NCI)
+MAG27	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NoStdName	Muribaculaceae bacterium Isolate-037 (Harlan)
+MAG28	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NoStdName	Muribaculaceae bacterium Isolate-080 (Janvier)
+MAG29	Bacteria	Firmicutes	Clostridia	Clostridiales			
+MAG30	Bacteria	Firmicutes					
+MAG31	Bacteria	Firmicutes	Clostridia	Clostridiales	Oscillospiraceae	Oscillibacter	
+MAG32	Bacteria						
+MAG33	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+MAG34	Bacteria	Firmicutes	Clostridia	Clostridiales			
+MAG35	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG36	Bacteria	Firmicutes					
+MAG37	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG38	Bacteria	Firmicutes	Clostridia				
+MAG39	Bacteria	Firmicutes	Clostridia				
+MAG40	Bacteria	Tenericutes	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Anaeroplasma	Anaeroplasma bactoclasticum
+MAG41	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NoStdName	Lachnospiraceae bacterium A4
+MAG42	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+MAG43	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NoStdName	Muribaculaceae bacterium Isolate-013 (NCI)
+MAG44	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG45	Bacteria						
+MAG46	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG47	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+MAG48	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+MAG49	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+MAG50	Bacteria						
+MAG51	Bacteria						
+MAG52	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NoStdName	Lachnospiraceae bacterium A4
+MAG53	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	NoStdName	NoStdName	Bacteroidales bacterium
+MAG54	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NoStdName	Muribaculaceae bacterium Isolate-110 (HZI)
+MAG55	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+MAG56	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea sp. 5-2
+MAG57	Bacteria	Firmicutes	Clostridia	Clostridiales			
+MAG58	Bacteria	Firmicutes					
+MAG59	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia*	
+MAG60	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NoStdName	Lachnospiraceae bacterium A4
+MAG61	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+MAG62	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NoStdName	Lachnospiraceae bacterium 10-1
+MAG63	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+MAG64	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+MAG65	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG66	Bacteria	Firmicutes	Clostridia	Clostridiales			
+MAG67	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	NoStdName	Muribaculaceae bacterium Isolate-013 (NCI)
+MAG68	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+MAG69	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
