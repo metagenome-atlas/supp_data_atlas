@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+.DS_Store
+Figures/*
+AL/genomes/bbsplit_ref/*
+__pycache__/*
+oldconfig.yaml
